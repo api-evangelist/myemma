@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Emma is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://myemma.com/
+Emma provides an email marketing platform that helps businesses design, personalize, segment, and automate targeted email campaigns. The service focuses on delivering measurable results through advanced analytics, A/B testing, and integration with various CRM and e‑commerce tools. Emma’s platform aims to improve customer engagement and drive revenue growth for marketers of all sizes.
+
+**Areas:** Email Marketing · Automation · AI · SMS · Higher Education · Nonprofit · Government · Travel & Hospitality
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myemma.com/)
+- [Documentation](https://help.myemma.com/)
+- [Pricing](https://myemma.com/product/pricing/)
+- [Changelog](https://myemma.com/customers/whats-new/)
+- [Blog](https://myemma.com/resources/blog/)
+- [Security](https://myemma.com/security/)
+- [Privacy policy](https://myemma.com/legal/privacy-notice/)
+- [GitHub](https://github.com/myemma)
+- [Status](https://status.myemma.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/myemma/](https://apis.io/providers/myemma/).
